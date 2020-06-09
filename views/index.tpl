@@ -222,11 +222,11 @@
 					<div class="folio-header text-center">
 			          	<h3 class="title line"><span>My Portfolio</span></h3>
 			          	<div class="clr"></div>
-			          	<ul id="filters" class="clearfix">
+			          	<!-- id="filters" class="clearfix">
 							<li><span class="filter active" data-filter="*">All</span></li>
 							<li><span class="filter" data-filter=".golang">Golang</span></li>
 							<li><span class="filter" data-filter=".drupal">Flutter</span></li>
-						</ul>
+						</ul -->
 					</div>
 						
 					<div class="row">
@@ -242,7 +242,7 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="/images/portfolio/kalimpongbroadband.jpg" data-fancybox="images" data-caption="Kalimpong Broadband" href="https://www.kalimpongbroadband.com" target="_blank">KalimpongBroadband.com</a>
+										<a href="https://kalimpongbroadband.com" data-caption="Kalimpong Broadband" target="_blank">KalimpongBroadband.com</a>
 									</div>
 								</div>
 							</div>				
@@ -257,7 +257,7 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="/images/portfolio/hugoblog.png" data-fancybox="images" data-caption="Urantia Tech">hugo.ParikshitG.me</a>
+										<a href="https://hugo.parikshitg.me" target="_blank" data-caption="hugo.parikshitg.me">hugo.ParikshitG.me</a>
 									</div>
 								</div>
 							</div>
@@ -272,7 +272,7 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="/images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">ParikshitG.me</a>
+										<a href="https://allmypass.xyz" target="_blank" data-caption="All My Pass">AllMyPass.xyz</a>
 									</div>
 								</div>
 							</div>	
@@ -287,10 +287,25 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="/images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">ParikshitG.me</a>
+										<a href="https://mailmyform.com" target="_blank" data-caption="Mail My Form">MailMyForm.xyz</a>
 									</div>
 								</div>
 							</div>
+
+							<!-- div class="col-md-4 portfolio golangCV" data-cat="golang">
+								<div class="portfolio-wrapper">	
+									<img src="/images/portfolio/correctingtime.jpg" alt="" />
+									<div class="label">
+										<div class="label-text">
+											<p class="text-title">Bird Document</p>
+											<span class="text-category">Logo</span>
+										</div>
+									</div>
+									<div class="extra">
+										<a href="/images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">MailMyForm.xyz</a>
+									</div>
+								</div>
+							</div -->
 										
 						</div>
 					</div>
