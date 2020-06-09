@@ -8,23 +8,23 @@
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	    <meta name="description" content="">
 	    <meta name="author" content="">
-		<link rel="shortcut icon" href="images/favicon.png">
+		<link rel="shortcut icon" href="/images/favicon.png">
 	    <title>Parikshit Gothwal - Golang Developer</title>
 
 	    <!-- Bootstrap core CSS -->
-	    <link href="css/bootstrap.css" rel="stylesheet">
+	    <link href="/css/bootstrap.css" rel="stylesheet">
 	     <!-- Flexslider -->
-	    <link rel="stylesheet" href="css/flexslider.css">
+	    <link rel="stylesheet" href="/css/flexslider.css">
 		<!-- Icon Font-->
-	    <link href="css/font-awesome/css/font-awesome.css" rel="stylesheet">
+	    <link href="/css/font-awesome/css/font-awesome.css" rel="stylesheet">
 	    <!-- Fancybox -->
-	    <link rel="stylesheet" href="css/jquery.fancybox.css" type="text/css"/>
+	    <link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css"/>
 	    <!--Swiper-->
-	    <link href="css/swiper.css" type="text/css" rel="stylesheet">
+	    <link href="/css/swiper.css" type="text/css" rel="stylesheet">
 	    <!--Style-->
-	    <link href="css/style.css" type="text/css" rel="stylesheet">
+	    <link href="/css/style.css" type="text/css" rel="stylesheet">
 	    <!--Responsive CSS-->
-	    <link href="css/responsive.css" type="text/css" rel="stylesheet">
+	    <link href="/css/responsive.css" type="text/css" rel="stylesheet">
 	</head>
 
 	<div id="overlayloader">
@@ -72,7 +72,7 @@
 						</div>
 
 						<div class="owner col-md-4 col-xs-12 text-center">
-							<img src="images/parikshitg.jpg" alt="Parikshit Gothwal">
+							<img src="/images/parikshitg.jpg" alt="Parikshit Gothwal">
 							<h3 class="title">Parikshit Gothwal</h3>
 							<div id="myCarousel-owner" class="carousel slide">
 						      	<div class="carousel-inner">
@@ -128,6 +128,7 @@
 						        <li><span><b>Backend Technologies:</b></span> Golang, Beego, Hugo</li>
 						        <li><span><b>Mobile Technologies:</b></span> Flutter</li>
 						        <li><span><b>Frontend Frameworks:</b></span> Bootstrap, Materialize CSS, Bulma CSS </li>
+						        <li></li>
 						        <li><span><b>Tools:</b></span> Git, JIRA, GIMP, Postman </li>
 						        <li><span><b>Operating Systems:</b></span> Linux, MacOS </li>
 						    </ul>
@@ -167,12 +168,15 @@
 						        			<br>
 						        			<br>
 						        			<br>
+						        			<br>
+						        			<br>
 
 						        			<h6 class="exp-subtitle">College Project: <span>Embedded Smart Street Light System</span></h6>
 						        		</div>
 
 						        		<div class="exp-rt-content col-md-7">
 										    <p>It was a 4 years bachelors degree from most esteemed Savitribai Phule Pune University in Pune, India. Was always good academically and got passed with first class with distinction. Was a quick started and self learner, and focused more on practical implementation. Was good at coding and always believed in writing code from scratch.</p>
+										    <p>Subjects: All core computer science subjects.</p>
 										    <br>
 										    <p>Was always very much interested in solving real world problems. The project was to develop a system for street lighting which consume less power and vary illumination as per traffic condition on the road. The system works on Pulse width modulation techniques which is controlled by user or environmental conditions. </p>
 											<p>Subject: All core computer science subjects</p>
@@ -230,7 +234,7 @@
 		
 							<div class="col-md-4 portfolio golang" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="images/portfolio/kalimpongbroadband.jpg" alt="" />
+									<img src="/images/portfolio/kalimpongbroadband.jpg" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -238,14 +242,14 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="images/portfolio/kalimpongbroadband.jpg" data-fancybox="images" data-caption="Kalimpong Broadband" href="https://www.kalimpongbroadband.com" target="_blank">KalimpongBroadband.com</a>
+										<a href="/images/portfolio/kalimpongbroadband.jpg" data-fancybox="images" data-caption="Kalimpong Broadband" href="https://www.kalimpongbroadband.com" target="_blank">KalimpongBroadband.com</a>
 									</div>
 								</div>
 							</div>				
 
 							<div class="col-md-4 portfolio golangCV" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="images/portfolio/hugoblog.png" alt="" />
+									<img src="/images/portfolio/hugoblog.png" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -253,14 +257,14 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="images/portfolio/hugoblog.png" data-fancybox="images" data-caption="Urantia Tech">hugo.ParikshitG.me</a>
+										<a href="/images/portfolio/hugoblog.png" data-fancybox="images" data-caption="Urantia Tech">hugo.ParikshitG.me</a>
 									</div>
 								</div>
 							</div>
 
 							<div class="col-md-4 portfolio golangCV" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="images/portfolio/correctingtime.jpg" alt="" />
+									<img src="/images/portfolio/correctingtime.jpg" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -268,14 +272,14 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">ParikshitG.me</a>
+										<a href="/images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">ParikshitG.me</a>
 									</div>
 								</div>
 							</div>	
 
 							<div class="col-md-4 portfolio golangCV" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="images/portfolio/correctingtime.jpg" alt="" />
+									<img src="/images/portfolio/correctingtime.jpg" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -283,7 +287,7 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">ParikshitG.me</a>
+										<a href="/images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">ParikshitG.me</a>
 									</div>
 								</div>
 							</div>
@@ -340,25 +344,25 @@
 	    <!--================================================== -->
 	    <!-- JS files placed at the end of the document for the pages load faster -->
 	    <!-- jQuery Library-->
-	    <script src="js/jquery.min.js"></script>
+	    <script src="/js/jquery.min.js"></script>
 	    <!-- Bootstrap core JavaScript-->
-	    <script src="js/bootstrap.min.js"></script>
+	    <script src="/js/bootstrap.min.js"></script>
 	    <!-- Portfolio -->
-	    <script src="js/isotope.pkgd.min.js"></script>
-	    <script src="js/easing.js"></script>
-	    <script src="js/visible.min.js"></script>
-	    <script src="js/progressbars.js"></script>
+	    <script src="/js/isotope.pkgd.min.js"></script>
+	    <script src="/js/easing.js"></script>
+	    <script src="/js/visible.min.js"></script>
+	    <script src="/js/progressbars.js"></script>
 	    <!-- Portfolio Fancybox-->
-	    <script src="js/jquery.fancybox.min.js"></script>
+	    <script src="/js/jquery.fancybox.min.js"></script>
 	    <!-- CounterUp-->
-	    <script src="js/waypoints.min.js"></script>
-	    <script src="js/jquery.counterup.min.js"></script>
-	    <script src="js/jquery.flexslider.min.js"></script> <!-- Flexslider -->
-	    <script src="js/jquery.mixitup.min.js"></script>
+	    <script src="/js/waypoints.min.js"></script>
+	    <script src="/js/jquery.counterup.min.js"></script>
+	    <script src="/js/jquery.flexslider.min.js"></script> <!-- Flexslider -->
+	    <script src="/js/jquery.mixitup.min.js"></script>
 	    <!--Theme JS -->
-	    <script src="js/swiper.min.js"></script>
-	    <script src="js/custom.js"></script>
-	    <script src="js/swiper-custom.js"></script>
+	    <script src="/js/swiper.min.js"></script>
+	    <script src="/js/custom.js"></script>
+	    <script src="/js/swiper-custom.js"></script>
 
 	</body>
 </html>
