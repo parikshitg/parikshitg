@@ -8,23 +8,23 @@
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	    <meta name="description" content="">
 	    <meta name="author" content="">
-		<link rel="shortcut icon" href="images/favicon.png">
+		<link rel="shortcut icon" href="/images/favicon.png">
 	    <title>Parikshit Gothwal- Golang Developer</title>
 
 	    <!-- Bootstrap core CSS -->
-	    <link href="css/bootstrap.css" rel="stylesheet">
+	    <link href="/css/bootstrap.css" rel="stylesheet">
 	     <!-- Flexslider -->
-	    <link rel="stylesheet" href="css/flexslider.css">
+	    <link rel="stylesheet" href="/css/flexslider.css">
 		<!-- Icon Font-->
-	    <link href="css/font-awesome/css/font-awesome.css" rel="stylesheet">
+	    <link href="/css/font-awesome/css/font-awesome.css" rel="stylesheet">
 	    <!-- Fancybox -->
-	    <link rel="stylesheet" href="css/jquery.fancybox.css" type="text/css"/>
+	    <link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css"/>
 	    <!--Swiper-->
-	    <link href="css/swiper.css" type="text/css" rel="stylesheet">
+	    <link href="/css/swiper.css" type="text/css" rel="stylesheet">
 	    <!--Style-->
-	    <link href="css/style.css" type="text/css" rel="stylesheet">
+	    <link href="/css/style.css" type="text/css" rel="stylesheet">
 	    <!--Responsive CSS-->
-	    <link href="css/responsive.css" type="text/css" rel="stylesheet">
+	    <link href="/css/responsive.css" type="text/css" rel="stylesheet">
 	</head>
 
 	<div id="overlayloader">
@@ -77,25 +77,25 @@
 	    <!--================================================== -->
 	    <!-- JS files placed at the end of the document for the pages load faster -->
 	    <!-- jQuery Library-->
-	    <script src="js/jquery.min.js"></script>
+	    <script src="/js/jquery.min.js"></script>
 	    <!-- Bootstrap core JavaScript-->
-	    <script src="js/bootstrap.min.js"></script>
+	    <script src="/js/bootstrap.min.js"></script>
 	    <!-- Portfolio -->
-	    <script src="js/isotope.pkgd.min.js"></script>
-	    <script src="js/easing.js"></script>
-	    <script src="js/visible.min.js"></script>
-	    <script src="js/progressbars.js"></script>
+	    <script src="/js/isotope.pkgd.min.js"></script>
+	    <script src="/js/easing.js"></script>
+	    <script src="/js/visible.min.js"></script>
+	    <script src="/js/progressbars.js"></script>
 	    <!-- Portfolio Fancybox-->
-	    <script src="js/jquery.fancybox.min.js"></script>
+	    <script src="/js/jquery.fancybox.min.js"></script>
 	    <!-- CounterUp-->
-	    <script src="js/waypoints.min.js"></script>
-	    <script src="js/jquery.counterup.min.js"></script>
-	    <script src="js/jquery.flexslider.min.js"></script> <!-- Flexslider -->
-	    <script src="js/jquery.mixitup.min.js"></script>
+	    <script src="/js/waypoints.min.js"></script>
+	    <script src="/js/jquery.counterup.min.js"></script>
+	    <script src="/js/jquery.flexslider.min.js"></script> <!-- Flexslider -->
+	    <script src="/js/jquery.mixitup.min.js"></script>
 	    <!--Theme JS -->
-	    <script src="js/swiper.min.js"></script>
-	    <script src="js/custom.js"></script>
-	    <script src="js/swiper-custom.js"></script>
+	    <script src="/js/swiper.min.js"></script>
+	    <script src="/js/custom.js"></script>
+	    <script src="/js/swiper-custom.js"></script>
 
 	</body>
 </html>
