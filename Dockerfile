@@ -1,5 +1,5 @@
 FROM scratch
-LABEL authors="Sangeet Kumar <sk@urantiatech.com>"
+LABEL authors="Parikshit Gothwal <parikshit@urantiatech.com>"
 ADD parikshitg parikshitg
 ADD static static
 ADD views views

@@ -262,9 +262,9 @@
 								</div>
 							</div>
 
-							<div class="col-md-4 portfolio golangCV" data-cat="golang">
+							<!-- div class="col-md-4 portfolio golangCV" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="/images/portfolio/correctingtime.jpg" alt="" />
+									<img src="/images/portfolio/.jpg" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -279,7 +279,7 @@
 
 							<div class="col-md-4 portfolio golangCV" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="/images/portfolio/correctingtime.jpg" alt="" />
+									<img src="/images/portfolio/.jpg" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -290,11 +290,11 @@
 										<a href="https://mailmyform.com" target="_blank" data-caption="Mail My Form">MailMyForm.xyz</a>
 									</div>
 								</div>
-							</div>
+							</div -->
 
 							<!-- div class="col-md-4 portfolio golangCV" data-cat="golang">
 								<div class="portfolio-wrapper">	
-									<img src="/images/portfolio/correctingtime.jpg" alt="" />
+									<img src="/images/portfolio/.jpg" alt="" />
 									<div class="label">
 										<div class="label-text">
 											<p class="text-title">Bird Document</p>
@@ -302,7 +302,7 @@
 										</div>
 									</div>
 									<div class="extra">
-										<a href="/images/portfolio/correctingtime.jpg" data-fancybox="images" data-caption="Correcting Time">MailMyForm.xyz</a>
+										<a href="/images/portfolio/.jpg" data-fancybox="images" data-caption="Correcting Time">MailMyForm.xyz</a>
 									</div>
 								</div>
 							</div -->
